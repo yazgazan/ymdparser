@@ -1,0 +1,22 @@
+{
+  "name": "ymdparser",
+  "version": "0.0.1",
+  "description": "Extending mdparser for an advanced md format.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "ymarkdown",
+    "markdown",
+    "latex",
+    "converter",
+    "mdparser"
+  ],
+  "author": "yazgazan@gmail.com",
+  "license": "BSD",
+  "dependencies": {
+    "mdparser": "0.0.3"
+  }
+}
